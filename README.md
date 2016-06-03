@@ -8,4 +8,4 @@ Reaction time tests a players reaction time.
 The website lets players record scores to see who wins!
 ________________________________________________________________________________
 
-Diagram from the circuit is comeing soon!
+Diagram from the circuit is coming soon!
