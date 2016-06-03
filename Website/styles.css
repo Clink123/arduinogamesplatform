@@ -1,0 +1,47 @@
+/* line 2, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+html body {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: #c0c0c0;
+  font-family: 'Righteous', cursive; }
+  /* line 8, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body h1 {
+    font-family: 'Chewy', cursive;
+    font-size: 120px;
+    margin-bottom: 0; }
+  /* line 13, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body h2 {
+    font-size: 36px; }
+  /* line 16, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body p {
+    font-family: 'Inconsolata';
+    font-size: 22px;
+    font-weight: 400; }
+  /* line 21, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body .col-xs-6 {
+    height: 300px;
+    font-family: 'Righteous', cursive;
+    font-size: 48px; }
+    /* line 25, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+    html body .col-xs-6 a:hover {
+      opacity: 0.5; }
+  /* line 29, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body .LED_Wars {
+    background-color: #ffff4d; }
+  /* line 32, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body .ReactionTime {
+    background-color: #00cd00; }
+  /* line 35, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body a:hover, html body a:visited, html body a:link, html body a:active {
+    color: black;
+    text-decoration: none; }
+  /* line 40, /Users/shawnrobin/Documents/Arduino/Code Day Fall 2015/Website/styles.scss */
+  html body button {
+    font-family: 'Coda', cursive;
+    font-weight: 600;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    margin-top: 19%; }
+
+/*# sourceMappingURL=styles.css.map */
